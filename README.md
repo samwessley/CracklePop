@@ -1,3 +1,3 @@
 # CracklePop
 
-CracklePop excercise as part of the RC application.
+CracklePop exercise as part of the RC application.
